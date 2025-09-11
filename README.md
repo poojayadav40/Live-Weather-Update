@@ -1,3 +1,6 @@
+∗ Created a live weather update website whose running on external API source. By developing this project I had
+enhanced hands-on experience on React, NodeJs, Vite etc tools.
+
 # Live-Weather-Update
 #How to run ?
 

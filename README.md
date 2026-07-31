@@ -55,6 +55,7 @@ To run this project, you need to get your own API Key from your weather service 
 
 ```env
 VITE_WEATHER_API_KEY=your_api_key_here
+
 Note: Make sure .env is listed in your .gitignore file so your secret API key isn't exposed publicly.
 
 ⚙️ How to Run the Project Locally

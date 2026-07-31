@@ -13,6 +13,10 @@ A responsive, real-time weather web application built using **React**, **Vite**,
 * **Fast Performance:** Built with **Vite** for fast build times and seamless development.
 
 ---
+## 🚀 Live Demo
+
+Check out the live deployed application here:  
+👉 **[Live Weather Update Web App](https://live-weather-update-lilac.vercel.app/)**
 
 ## 🛠️ Tech Stack
 

@@ -57,7 +57,7 @@ const search = async (city)=> {
       icon: icon
     })
   } catch (error) {
-    setWeatherData(fale);
+    setWeatherData(false);
     console.error("Error in fething weather data");
     
   }
